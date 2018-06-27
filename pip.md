@@ -54,7 +54,7 @@ available at https://github.com/RIKEN-SysSoft.
 
 ## Reference
 
-_Process-in-Process: Techniques for Practical Address-Space Sharing_
+_Process-in-Process: Techniques for Practical Address-Space Sharing_,
 Atsushi Hori, Min Si, Balazs Gerofi, Masamichi Takagi, Jai Dayal,
 Pavan Balaji and Yutaka Ishikawa. ACM HPDC 2018
 The 27th International Symposium on High-Performance Parallel and
