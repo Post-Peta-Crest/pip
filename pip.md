@@ -49,7 +49,8 @@ try and deploy.
 
 ## Do you want to try PiP ?
 
-PiP, PiP-glibc and PiP-gdb re available at https://github.com/RIKEN-SysSoft.
+We are working to make the PiP library open right now. It will be
+available at https://github.com/RIKEN-SysSoft.
 
 ## Reference
 
